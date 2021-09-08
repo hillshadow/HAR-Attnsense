@@ -2,7 +2,7 @@
 
 This project is be base on the paper ”AttnSense: Multi-level Attention Mechanism For Multimodal Human Activity Recognition” by Ma, Li, Zhang, Gao, Lu.
 
-Preprocess
+Preprocess \\
 The preprocess was done on PAMAP2 dataset. We implemented the preprocess according to the steps described in the paper.
 The steps are:
 1. Calculating the energy content (norm) separately for each sensor.
