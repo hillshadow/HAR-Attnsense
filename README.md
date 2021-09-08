@@ -13,7 +13,8 @@ The steps are:
 
 The network is built of several sections:
 1. Individual convolutional layers.
-2. Attention - between different modalities for each timestep. 3. GRU.
+2. Attention - between different modalities for each timestep.
+3. GRU.
 4. Attention - between different timesteps.
 5. Fully connected layer + Softmax.
 
