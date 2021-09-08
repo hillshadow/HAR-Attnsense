@@ -19,6 +19,8 @@ The network is built of several sections:
 5. Fully connected layer + Softmax.
 
 Innovative notebook
+
+
 RNN and GRU are mainly used for sequential processing over time which takes a lot of resources and time.
 The innovative part is to replace the GRU layer in the network into stacked self-attention layers which will produce positional embedding.
 The idea came from the domain of NLP as introduced in the paper ’Attention is all you need’.
